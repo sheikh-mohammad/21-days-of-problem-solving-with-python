@@ -1,4 +1,14 @@
-# 🏠 **Homework / Practice Challenge**
+# 🎯 **Day 1 – Simple Number Problems**
+
+## 🧩 **Core Concept Focus**
+
+* Loops (`for`, `while`)
+* Simple arithmetic operations
+* Thinking in steps (pattern of input → logic → output)
+
+---
+
+### 🏠 **Homework / Practice Challenge**
 
 1. **Print all numbers divisible by 3 and 5 up to N**
 

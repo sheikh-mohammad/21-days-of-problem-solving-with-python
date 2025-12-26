@@ -51,3 +51,5 @@
    * Input: `5`
    * Output: `1 4 9 16 25`
    * ✨ *Introduces arithmetic pattern generation.*
+
+---

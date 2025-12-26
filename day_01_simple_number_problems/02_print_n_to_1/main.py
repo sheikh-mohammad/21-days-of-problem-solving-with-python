@@ -1,9 +1,4 @@
 def main() -> None:
-    """Reads a number from user input and prints numbers from N to 1.
-
-    This function prompts the user for an integer input N, then iterates 
-    downwards from N to 1 (inclusive), printing each number separated by a space.
-    """
     # Get integer input from the user for the starting number
     end_num : int = int(input("Enter a number: "))
     

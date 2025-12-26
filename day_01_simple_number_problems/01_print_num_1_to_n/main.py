@@ -2,7 +2,7 @@ def main() -> None:
     num : int = int(input("Enter a number: "))
     
     for i in range(1, num + 1):
-        print(i)    
+        print(i, end=" ")
 
 if __name__ == '__main__':
     main()

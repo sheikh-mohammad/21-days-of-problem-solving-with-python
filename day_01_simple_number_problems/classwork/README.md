@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 **Questions List**
+### 🧠 **Classwork / Challenges**
 
 1. **Print Numbers from 1 to N**
 

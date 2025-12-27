@@ -8,9 +8,9 @@ def main() -> None:
             sum_of_even += num
             evens.append(num)
             
-    state : str = " + ".join([str(even) for even in evens])            
+    state : str = "+".join([str(even) for even in evens])            
             
-    print(sum_of_even, f"({state})")
+    print(sum_of_even, f"( {state} )")
 
 if __name__ == '__main__':
     main()

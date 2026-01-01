@@ -2,8 +2,8 @@ def main() -> None:
     n : int = int(input("Enter a number: "))
     factorial : int = 1
     
-    for i in range(n, 1 - 1, -1):
-            factorial *= i
+    for num in range(n, 1 - 1, -1):
+            factorial *= num
 
     print(factorial)
     

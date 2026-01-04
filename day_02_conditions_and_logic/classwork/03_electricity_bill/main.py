@@ -1,7 +1,4 @@
 def main() -> None:
-<<<<<<< HEAD
-    pass
-=======
     try:
         units : int = int(input("Enter units: "))
         total_bill : int = 0
@@ -23,7 +20,6 @@ def main() -> None:
 
         print(f"Total Bill = Rs {total_bill}")
     
->>>>>>> a50f5ca09287f193e715515a6613d3dde36cefcb
 
 if __name__ == '__main__':
     main()
